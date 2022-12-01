@@ -1,2 +1,0 @@
-#!/bin/bah
-Shell basics
